@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/otigon/automated-jb2a-animations/blob/main/pictures/slavaukraine.jpg">
-</p>  
   
 MIT License provided:  
 - Code from Midi-QOL (Tim Posney) is used to check distance between tokens: Copyright (c) 2020 Tim Posney  

@@ -4,7 +4,7 @@
     "description": "This will automatically run most JB2A Animations such as Melee/Ranged Attacks, Spell Attacks, and Instant Spells",
     "version": "3.1.5",
     "author": "Otigon",
-    "url": "https://github.com/otigon/automated-jb2a-animations",
+    "url": "https://github.com/DarthBanjo/automated-jb2a-animations",
     "minimumCoreVersion": "0.8.1",
     "compatibleCoreVersion": "9",
     "styles": [
@@ -60,6 +60,6 @@
         }
     ],
     "socket": true,
-    "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
-    "download": "https://github.com/otigon/automated-jb2a-animations/releases/download/0.6.71/module.zip"
+    "manifest": "https://raw.githubusercontent.com/DarthBanjo/automated-jb2a-animations/main/module.json",
+    "download": "https://github.com/DarthBanjo/automated-jb2a-animations/archive/refs/heads/main.zip"
 }
